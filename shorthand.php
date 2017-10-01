@@ -1,7 +1,7 @@
 <?php
 
 use Mira\Route;
-use Mira\Render;
+use Mira\Render\Render;
 
 function get($url, $closure)
 {
